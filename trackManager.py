@@ -1,7 +1,7 @@
 import numpy as np
 from globalVars import global_params
 from track import Track
-from kalamanFilter import KalmanFilter
+from kalmanFilter import KalmanFilter
 from trackIdManager import TrackIdManager
 
 class TrackManager:
